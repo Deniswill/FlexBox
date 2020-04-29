@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+
+bady, ul, p, h1, h2 {
+    margin: 0;
+    padding: 0;
+}
+.titulo {
+        color: red;
+    }
+    .fonte {
+        font-size: 4em;
+    }
+    #nascimento {
+        color: green;
+    }
+    input[type$="ext"] {
+        width: 50px;
+        transition-duration:1s;
+        color:red;
+    }
+    imput[type="text"]:focus {
+        color: green;
+        font-size: 2em;
+    }

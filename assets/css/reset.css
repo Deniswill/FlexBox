@@ -1,0 +1,13 @@
+@import 'reset.css';
+
+
+
+*{
+    box-sizing: border-box;
+}
+
+bady, ul, p, h1, h2 {
+    font-family: 'Open Sans', Arial;
+    margin: 0;
+    padding: 0;
+}
